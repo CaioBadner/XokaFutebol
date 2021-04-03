@@ -1,0 +1,332 @@
+[
+  {
+    "name": "4-3-1-2",
+    "description": "diamond",
+    "pos_titles": [
+      "G",
+      "DL",
+      "DC",
+      "DC",
+      "DR",
+      "MDC",
+      "ML",
+      "MR",
+      "MAC",
+      "AC",
+      "AC"
+    ],
+    "pos_coords": [
+      3,
+      20,
+      22,
+      24,
+      26,
+      43,
+      51,
+      55,
+      63,
+      82,
+      84
+    ]
+  }, //4312 DIAMOND
+  {
+    "name": "4-4-2a",
+    "description": "flat four",
+    "pos_titles": [
+      "G",
+      "DL",
+      "DC",
+      "DC",
+      "DR",
+      "ML",
+      "MC",
+      "MC",
+      "MR",
+      "AC",
+      "AC"
+    ],
+    "pos_coords": [
+      3,
+      20,
+      22,
+      24,
+      26,
+      50,
+      52,
+      54,
+      56,
+      82,
+      84
+    ]
+  }, //442 FLAT FOUR
+  {
+    "name": "4-4-2b",
+    "description": "magical cube",
+    "pos_titles": [
+      "G",
+      "DL",
+      "DC",
+      "DC",
+      "DR",
+      "MDC",
+      "MDC",
+      "MAC",
+      "MAC",
+      "AC",
+      "AC"
+    ],
+    "pos_coords": [
+      3,
+      20,
+      22,
+      24,
+      26,
+      42,
+      44,
+      62,
+      64,
+      82,
+      84
+    ]
+  }, //442 CUBE
+  {
+    "name": "4-5-1",
+    "description": "balanced with wingers",
+    "pos_titles": [
+      "G",
+      "DL",
+      "DC",
+      "DC",
+      "DR",
+      "MDC",
+      "ML",
+      "MR",
+      "AMC",
+      "AMC",
+      "AC"
+    ],
+    "pos_coords": [
+      3,
+      20,
+      22,
+      24,
+      26,
+      43,
+      51,
+      55,
+      72,
+      74,
+      83
+    ]
+  }, //451 france 98
+  {
+    "name": "4-3-3a",
+    "description": "very offensive",
+    "pos_titles": [
+      "G",
+      "DL",
+      "DC",
+      "DC",
+      "DR",
+      "MDC",
+      "MAC",
+      "MAC",
+      "AL",
+      "AC",
+      "AR"
+    ],
+    "pos_coords": [
+      3,
+      20,
+      22,
+      24,
+      26,
+      43,
+      62,
+      64,
+      81,
+      83,
+      85
+    ]
+  }, //433 OFFENSIVE
+  {
+    "name": "4-3-3b",
+    "description": "balanced mid",
+    "pos_titles": [
+      "G",
+      "DL",
+      "DC",
+      "DC",
+      "DR",
+      "MDC",
+      "MDC",
+      "MAC",
+      "AML",
+      "AMR",
+      "AC"
+    ],
+    "pos_coords": [
+      3,
+      20,
+      22,
+      24,
+      26,
+      42,
+      44,
+      63,
+      71,
+      75,
+      83
+    ]
+  }, //433 BALANCED
+  {
+    "name": "5-3-2",
+    "description": "very defensive",
+    "pos_titles": [
+      "G",
+      "DC",
+      "DC",
+      "DC",
+      "DML",
+      "DMR",
+      "MC",
+      "MC",
+      "MAC",
+      "AC",
+      "AC"
+    ],
+    "pos_coords": [
+      3,
+      21,
+      23,
+      25,
+      30,
+      36,
+      52,
+      54,
+      63,
+      82,
+      84
+    ]
+  }, //532 DEFENSIVE
+  {
+    "name": "5-2-3",
+    "description": "counter-attacks",
+    "pos_titles": [
+      "G",
+      "DC",
+      "DC",
+      "DC",
+      "DML",
+      "DMR",
+      "MC",
+      "MC",
+      "AML",
+      "AMR",
+      "AC"
+    ],
+    "pos_coords": [
+      3,
+      21,
+      23,
+      25,
+      30,
+      36,
+      52,
+      54,
+      71,
+      75,
+      83
+    ]
+  }, //523 COUNTER ATTACKS
+  {
+    "name": "3-5-2",
+    "description": "defensive",
+    "pos_titles": [
+      "G",
+      "DC",
+      "DC",
+      "DC",
+      "DMC",
+      "DMC",
+      "ML",
+      "MR",
+      "MAC",
+      "AC",
+      "AC"
+    ],
+    "pos_coords": [
+      3,
+      21,
+      23,
+      25,
+      42,
+      44,
+      50,
+      56,
+      63,
+      82,
+      84
+    ]
+  }, //352 SWEEPER
+  {
+    "name": "3-4-3",
+    "description": "very offensive",
+    "pos_titles": [
+      "G",
+      "DC",
+      "DC",
+      "DC",
+      "MDC",
+      "ML",
+      "MR",
+      "MAC",
+      "AL",
+      "AC",
+      "AR"
+    ],
+    "pos_coords": [
+      3,
+      21,
+      23,
+      25,
+      43,
+      51,
+      55,
+      63,
+      81,
+      83,
+      85
+    ]
+  }, //343 VERY OFFENSIVE
+  {
+    "name": "3-3-4",
+    "description": "super offensive",
+    "pos_titles": [
+      "G",
+      "DC",
+      "DC",
+      "DC",
+      "MDC",
+      "MDC",
+      "MAC",
+      "AML",
+      "AMR",
+      "AC",
+      "AC"
+    ],
+    "pos_coords": [
+      3,
+      21,
+      23,
+      25,
+      42,
+      44,
+      63,
+      71,
+      75,
+      82,
+      84
+    ]
+  } //334 SUPER OFFENSIVE
+]

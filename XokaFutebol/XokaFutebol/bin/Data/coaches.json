@@ -1,0 +1,38 @@
+﻿[
+  {
+    "ID": 1,
+    "nickname": "Zagallo",
+    "firstname": "Mário Jorge",
+    "lastname": "Lobo Zagallo",
+    "date_birth": "1931-08-09",
+    "nationality": "Brazilian",
+    "team": "Brazil",
+    "formation_name": "4-4-2b",
+    "freekick_taker": "Rivaldo",
+    "penalty_taker": "Ronaldo"
+  },
+  {
+    "ID": 2,
+    "nickname": "Aimé Jacquet",
+    "firstname": "Aimé Etienne",
+    "lastname": "Jacquet",
+    "date_birth": "1941-11-27",
+    "nationality": "French",
+    "team": "France",
+    "formation_name": "4-5-1",
+    "freekick_taker": "Zidane",
+    "penalty_taker": "Zidane"
+  },
+  {
+    "ID": 3,
+    "nickname": "Guus Hiddink",
+    "firstname": "Guus",
+    "lastname": "Hiddink",
+    "date_birth": "1946-11-08",
+    "nationality": "Dutch",
+    "team": "Holland",
+    "formation_name": "4-4-2a",
+    "freekick_taker": "Ronald de Boer",
+    "penalty_taker": "Bergkamp"
+  }
+]

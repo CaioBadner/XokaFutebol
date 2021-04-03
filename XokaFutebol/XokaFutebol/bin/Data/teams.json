@@ -1,0 +1,102 @@
+[
+    {
+      "ID": 0,
+      "key": "0001",
+      "name": "Brazil",
+      "short_name": "BRA",
+      "continent": "South America",
+      "forecolor": "MediumBlue",
+      "backcolor": "Yellow"
+    },
+    {
+      "ID": 1,
+      "key": "0002",
+      "name": "France",
+      "short_name": "FRA",
+      "continent": "Europe",
+      "forecolor": "White",
+      "backcolor": "MediumBlue"
+    },
+    {
+      "ID": 2,
+      "key": "0003",
+      "name": "Holland",
+      "short_name": "HOL",
+      "continent": "Europe",
+      "forecolor": "White",
+      "backcolor": "DarkOrange"
+    },
+    {
+      "ID": 3,
+      "key": "0004",
+      "name": "Germany",
+      "short_name": "GER",
+      "continent": "Europe",
+      "forecolor": "Black",
+      "backcolor": "White"
+    },
+    {
+      "ID": 4,
+      "key": "0005",
+      "name": "Argentina",
+      "short_name": "ARG",
+      "continent": "South America",
+      "forecolor": "DeepSkyBlue",
+      "backcolor": "White"
+    },
+    {
+      "ID": 5,
+      "key": "0006",
+      "name": "Italy",
+      "short_name": "ITA",
+      "continent": "Europe",
+      "forecolor": "White",
+      "backcolor": "MediumBlue"
+    },
+    {
+      "ID": 6,
+      "key": "0007",
+      "name": "Spain",
+      "short_name": "SPA",
+      "continent": "Europe",
+      "forecolor": "Yellow",
+      "backcolor": "Red"
+    },
+    {
+      "ID": 7,
+      "key": "0008",
+      "name": "Uruguay",
+      "short_name": "URU",
+      "continent": "South America",
+      "forecolor": "Black",
+      "backcolor": "SkyBlue"
+    },
+    {
+      "ID": 8,
+      "key": "0009",
+      "name": "England",
+      "short_name": "ENG",
+      "continent": "Europe",
+      "forecolor": "Red",
+      "backcolor": "White"
+    },
+    {
+      "ID": 9,
+      "key": "0010",
+      "name": "Denmark",
+      "short_name": "DEN",
+      "continent": "Europe",
+      "forecolor": "White",
+      "backcolor": "Red"
+    },
+    {
+      "ID": 10,
+      "key": "0011",
+      "name": "Mexico",
+      "short_name": "MEX",
+      "continent": "North America",
+      "forecolor": "White",
+      "backcolor": "Green"
+    }
+  ]
+
