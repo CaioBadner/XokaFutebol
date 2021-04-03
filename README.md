@@ -13,3 +13,12 @@ The JSON files will be used as the basic database for players, teams and any oth
 is available, the more precise the simulation will be. So in the future, I hope to have a community of players helping our database become as comprehensive as possible.
 
 It stands as of right now, a dream. But you can be a part of it, if you want :)
+
+![image](https://user-images.githubusercontent.com/59920967/113488512-51666580-94c7-11eb-8356-6e3a96c64143.png)
+
+![image](https://user-images.githubusercontent.com/59920967/113488559-968a9780-94c7-11eb-8f4f-13ff35535c3b.png)
+
+![image](https://user-images.githubusercontent.com/59920967/113488584-bf129180-94c7-11eb-91af-39989562d5ca.png)
+
+![image](https://user-images.githubusercontent.com/59920967/113488618-e49f9b00-94c7-11eb-9379-93fe4b732dfe.png)
+
